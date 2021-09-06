@@ -1,0 +1,13 @@
+numero1 = input('Digite o primero número : ')
+numero2 = input('Digite o segundo número : ')
+numero3 = input('Digite o terceiro número : ')
+numero4 = input('Digite o quarto número : ')
+numero5 = input('Digite o quinto número : ')
+numero6 = input('Digite o sexto número : ')
+numero7 = input('Digite o setimo número : ')
+numero8 = input('Digite o oitavo número : ')
+numero9 = input('Digite o nono número : ')
+numero10 = input('Digite o décimo número : ')
+
+lista = [numero1,numero2,numero3,numero4,numero5,numero6,numero7,numero8,numero9,numero10]
+print(list(reversed(lista)))
